@@ -1,0 +1,33 @@
+* {
+    font-family: Papyrus, 'Times New Roman', Times, serif;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    top: 0;
+    border-bottom: 10px solid red;
+}
+
+nav ul {
+    text-align: right;
+}
+
+nav li {
+    list-style-type: none;
+    display: inline;
+    padding: 20px;
+}
+
+.bar {
+    background-color: tomato;
+    color: white;
+    position: fixed;
+    width: 100%;
+}
