@@ -25,9 +25,43 @@ nav li {
     padding: 20px;
 }
 
+h1 {
+    padding-top: 100px;
+    color: red;
+}
+
+h2 {
+    text-decoration: underline;
+}
+
+main {
+    padding: 50px;
+    display: inline-block;
+    margin: 0 auto;
+}
+
+form {
+    background-color: skyblue;
+    margin: 0px 0px 100px 0px;
+}
+
+pre {
+    padding-top: 25px;
+}
+
+footer {
+    bottom: 0;
+    text-align: center;
+    border-top: 10px solid red;
+}
+
 .bar {
     background-color: tomato;
     color: white;
     position: fixed;
     width: 100%;
+}
+
+.lyrics {
+    text-align: left;
 }
